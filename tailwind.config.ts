@@ -32,6 +32,14 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				dental: {
+					blue: 'hsl(var(--dental-blue))',
+					'blue-light': 'hsl(var(--dental-blue-light))',
+					'blue-dark': 'hsl(var(--dental-blue-dark))',
+					gray: 'hsl(var(--dental-gray))',
+					text: 'hsl(var(--dental-text))',
+					'text-muted': 'hsl(var(--dental-text-muted))'
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
